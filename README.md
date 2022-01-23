@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on : **Competitive Programming**
 
-- 👨‍💻 My portfolio at : [https://somyaranjansahu.github.io/Website/](https://somyaranjansahu.github.io/Website/)
+- 👨‍💻 My portfolio at : [https://somyasahu.netlify.app/](https://somyasahu.netlify.app/)
 
 - 📫 How to reach me : **somyasahu10@gmail.com**
 
