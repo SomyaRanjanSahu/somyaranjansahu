@@ -30,7 +30,6 @@
 <kbd> <a href="https://www.codechef.com/users/somya_sahu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="somya_sahu" height="30" width="40" /></a> </kbd>
 <kbd> <a href="https://www.hackerrank.com/somyasahu10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="somyasahu10" height="30" width="40" /></a> </kbd>
 <kbd> <a href="https://auth.geeksforgeeks.org/user/somyasahu10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="somyasahu10" height="30" width="40" /></a> </kbd>
-<kbd> <a href="https://codepen.io/somyacodepen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somyacodepen" height="30" width="40" /></a> </kbd>
 </p>
 
 <hr>
