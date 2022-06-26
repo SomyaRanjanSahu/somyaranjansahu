@@ -4,3 +4,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergrad;Full+Stack+Web+Developer;Android+Developer&center=true&width=380&height=45"></a>
 </p>
+
+<br>
+<br>
