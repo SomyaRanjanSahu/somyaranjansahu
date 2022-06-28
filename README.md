@@ -9,3 +9,5 @@
 <br>
 
 <!-- Who am I? -->
+
+<img align="right" src="https://i.postimg.cc/L66XJfz6/face.png" width="350">
