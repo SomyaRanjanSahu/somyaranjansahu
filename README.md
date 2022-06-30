@@ -12,3 +12,19 @@
 
 <img align="right" src="https://i.postimg.cc/L66XJfz6/face.png" width="350">
 <h2 align="left">Who am I?</h2>
+
+ ```python
+ 
+  class WhoAmI:
+    user = 'Somya Ranjan Sahu'
+    currently_learning = "Flutter"
+    portfolio = "somyasahu.netlify.app"
+	hobbies = [
+		       'Music',
+                'Chilling',
+                'Sci-Fi Movies'
+              ]
+	
+	def getCity():
+		return Odisha_India()	
+ ```
