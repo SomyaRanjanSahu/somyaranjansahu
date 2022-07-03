@@ -10,7 +10,7 @@
 
 <!-- Who am I? -->
 
-<img align="right" src="https://i.postimg.cc/L66XJfz6/face.png" width="300">
+<img align="right" src="https://i.postimg.cc/L66XJfz6/face.png" width="310">
 <h2 align="left">Who am I?</h2>
 
  ```python
