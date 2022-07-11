@@ -37,7 +37,7 @@
 <h3 align="center">🗨️ Connect with me:</h3>
 <br>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/somya-ranjan-sahu/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=005480&logoColor=white" alt="Linkedin" /></a>&nbsp; 
 <a href="https://twitter.com/me_somyasahu" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&labelColor=0a6ca9&logoColor=white" alt="Twitter" /></a>&nbsp; 
 <a href="https://instagram.com/somya_r_sahu" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&labelColor=9c162f&logoColor=white" alt="Instagram" /></a>&nbsp; 
