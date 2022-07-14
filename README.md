@@ -45,3 +45,5 @@
 <a href="https://www.hackerrank.com/somyasahu10" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&labelColor=186835&logoColor=white" alt="Hackerrank" /></a>&nbsp; 
 <a href="https://auth.geeksforgeeks.org/user/somyasahu10" target="blank"><img src="https://img.shields.io/badge/-GeeksForGeeks-298D46?style=for-the-badge&logo=Geeksforgeeks&labelColor=1d6331&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
+
+<hr>
