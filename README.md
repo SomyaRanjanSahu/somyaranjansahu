@@ -49,3 +49,5 @@
 <hr>
 
 <!-- Competencies -->
+
+<br>
