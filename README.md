@@ -51,3 +51,4 @@
 <!-- Competencies -->
 
 <br>
+<h3 align="center">💡 Competencies:</h3>
