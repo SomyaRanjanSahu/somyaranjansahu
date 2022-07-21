@@ -53,3 +53,13 @@
 <br>
 <h3 align="center">💡 Competencies:</h3>
 <br>
+
+<table>
+<tr>
+<td><h4>Programming Languages</h4></td>
+<td><a href="https://github.com/search?q=user%3ASomyaRanjanSahu+cpp"><img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&color=00599C&labelColor=262626"/></a>&nbsp;  
+<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+c"><img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=262626&color=00599C" /></a>&nbsp;   
+<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+java"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=ff7019&labelColor=262626&color=ff7019"/></a>&nbsp;   
+<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+python"><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=262626&color=3776ab" /></a>&nbsp;   
+<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+javascript"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=262626&color=DFA200" /></a></td></tr>
+</table>
