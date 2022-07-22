@@ -62,4 +62,18 @@
 <a href="https://github.com/search?q=user%3ASomyaRanjanSahu+java"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=ff7019&labelColor=262626&color=ff7019"/></a>&nbsp;   
 <a href="https://github.com/search?q=user%3ASomyaRanjanSahu+python"><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=262626&color=3776ab" /></a>&nbsp;   
 <a href="https://github.com/search?q=user%3ASomyaRanjanSahu+javascript"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=262626&color=DFA200" /></a></td></tr>
+
+<tr>
+<td><h4>Web Development</h4></td>
+<td><a href="https://github.com/search?q=user%3ASomyaRanjanSahu+html5"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=262626&color=E34F26"/></a>&nbsp; 
+<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+css3"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=262626&color=1572B6" /></a>&nbsp; 
+<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+bootstrap"><img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=262626&color=7952B3"/></a>&nbsp; 
+<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+javascript"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=262626&color=c89100"/></a>&nbsp;   
+<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+mysql"><img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white&labelColor=262626&color=4479A1"/></a>&nbsp; 
+<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+mongodb"><img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=262626&color=409040"/></a>&nbsp; 
+<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+nodejs"><img src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=lime&labelColor=262626&color=236b23"/></a>&nbsp; 
+<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+tailwindcss"><img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&labelColor=262626&color=1CA1B8"/></a>&nbsp; 
+<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+nextjs"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&&logoColor=white&labelColor=262626&color=0d0c0c"/></a>
+</td></tr>
+
 </table>
