@@ -10,8 +10,8 @@
 
 <!-- Who am I? -->
 
-<img align="right" src="https://i.postimg.cc/L66XJfz6/face.png" width="315">
-<h2 align="left">Who am I?</h2>
+<!-- <img align="right" src="https://i.postimg.cc/L66XJfz6/face.png" width="315"> -->
+<h3 align="center">👨🏽‍💻 Who am I?</h2>
 
  ```python
  
@@ -24,9 +24,6 @@
                 'Chilling',
                 'Sci-Fi Movies'
               ]
-	
-	def getCity():
-		return Odisha_India()	
  ```
 
 <hr>
