@@ -70,4 +70,10 @@
 <a href="https://github.com/search?q=user%3ASomyaRanjanSahu+nextjs"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&&logoColor=white&labelColor=262626&color=0d0c0c"/></a>
 </td></tr>
 
+<tr>
+<td><h4>App Development</h4></td>
+<td><a href="https://github.com/search?q=user%3ASomyaRanjanSahu+flutter"><img src="https://img.shields.io/badge/Flutter-0a97c2?style=for-the-badge&logo=flutter&logoColor=0dbdf2&labelColor=262626&color=0ba0cd"/></a>&nbsp; 
+<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+dart"><img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=2eb8b8&labelColor=262626&color=269999"/></a>&nbsp; 
+<a href="#"><img src="https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge&logo=android%20studio&labelColor=262626&color=2a9a5c"/></a></td></tr>
+
 </table>
