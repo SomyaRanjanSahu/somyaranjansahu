@@ -76,4 +76,14 @@
 <a href="https://github.com/search?q=user%3ASomyaRanjanSahu+dart"><img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=2eb8b8&labelColor=262626&color=269999"/></a>&nbsp; 
 <a href="#"><img src="https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge&logo=android%20studio&labelColor=262626&color=2a9a5c"/></a></td></tr>
 
+<tr>
+<td><h4>Tools & Project Management</h4></td>
+<td><a href="#"><img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=262626&color=red"/></a>&nbsp;   
+<a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=262626&color=0d0c0c"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=262626&color=ff4704"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=262626&color=007ACC"/></a>&nbsp;    
+<a href="#"><img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&labelColor=262626&color=0d0c0c"/></a>&nbsp; 
+<a href="#"><img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify&labelColor=262626&color=00C7B7"/></a>&nbsp; 
+<a href="#"><img src="https://img.shields.io/badge/Heroku-180036?style=for-the-badge&logo=heroku&labelColor=262626&color=430098"/></a></td></tr>
+
 </table>
