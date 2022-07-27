@@ -86,4 +86,10 @@
 <a href="#"><img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify&labelColor=262626&color=00C7B7"/></a>&nbsp; 
 <a href="#"><img src="https://img.shields.io/badge/Heroku-180036?style=for-the-badge&logo=heroku&labelColor=262626&color=430098"/></a></td></tr>
 
+<tr>
+<td><h4>Miscellaneous</h4></td>
+<td><a href="#"><img src="https://img.shields.io/badge/Adobe_Illustrator-yellow?style=for-the-badge&logo=adobe%20illustrator&labelColor=262626&color=ff9a00"/></a>&nbsp; 
+<a href="#"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-purple?style=for-the-badge&logo=Adobe%20Premiere%20Pro&labelColor=262626&color=9999ff"/></a>&nbsp; 
+<a href="#"><img src="https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma&labelColor=262626&color=f24e1e"/></a></td></tr>
+
 </table>
