@@ -93,3 +93,5 @@
 <a href="#"><img src="https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma&labelColor=262626&color=f24e1e"/></a></td></tr>
 
 </table>
+
+<hr>
