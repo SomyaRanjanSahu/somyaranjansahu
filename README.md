@@ -101,3 +101,5 @@
 <br>
 <h3 align="center">📊 My Github stats:</h3> 
 <br>
+
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=somyaranjansahu&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&hide=jupyter%20notebook" alt="TopLangs" /></p>
