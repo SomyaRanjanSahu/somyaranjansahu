@@ -103,3 +103,6 @@
 <br>
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=somyaranjansahu&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&hide=jupyter%20notebook" alt="TopLangs" /></p>
+
+<p align="center" ><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somyaranjansahu&theme=tokyonight&hide_border=true" alt="SummaryCard" /></p>
+
