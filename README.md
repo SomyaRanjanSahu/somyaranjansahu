@@ -106,3 +106,10 @@
 
 <p align="center" ><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somyaranjansahu&theme=tokyonight&hide_border=true" alt="SummaryCard" /></p>
 
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=somyaranjansahu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Stats" />
+    </td>
+  </tr> 
+</table>
