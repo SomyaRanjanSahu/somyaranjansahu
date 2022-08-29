@@ -111,5 +111,8 @@
     <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=somyaranjansahu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Stats" />
     </td>
+    <td>
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=somyaranjansahu&theme=tokyonight&hide_border=true" alt="Streak" />
+    </td>
   </tr> 
 </table>
