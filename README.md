@@ -67,7 +67,6 @@
 <a href="https://github.com/search?q=user%3ASomyaRanjanSahu+mongodb"><img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=262626&color=409040"/></a>&nbsp; 
 <a href="https://github.com/search?q=user%3ASomyaRanjanSahu+nodejs"><img src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=lime&labelColor=262626&color=236b23"/></a>&nbsp; 
 <a href="https://github.com/search?q=user%3ASomyaRanjanSahu+tailwindcss"><img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&labelColor=262626&color=1CA1B8"/></a>&nbsp; 
-<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+nextjs"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&&logoColor=white&labelColor=262626&color=0d0c0c"/></a>
 <a href="https://github.com/search?q=user%3ASomyaRanjanSahu+react"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=262626"/></a>
 </td></tr>
 
