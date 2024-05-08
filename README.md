@@ -65,11 +65,10 @@
 <a href="https://github.com/search?q=user%3ASomyaRanjanSahu+bootstrap"><img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=262626&color=7952B3"/></a>&nbsp;
 <a href="https://github.com/search?q=user%3ASomyaRanjanSahu+react"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=262626"/></a>&nbsp;
 <a href="https://github.com/search?q=user%3ASomyaRanjanSahu+redux"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&labelColor=262626"/></a>&nbsp;
-<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+tailwindcss"><img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&labelColor=262626&color=1CA1B8"/>&nbsp;
+<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+tailwindcss"><img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&labelColor=262626&color=1CA1B8"/></a>&nbsp;
 <a href="https://github.com/search?q=user%3ASomyaRanjanSahu+nodejs"><img src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=lime&labelColor=262626&color=236b23"/></a>&nbsp;
 <a href="https://github.com/search?q=user%3ASomyaRanjanSahu+mysql"><img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white&labelColor=262626&color=4479A1"/></a>&nbsp; 
-<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+mongodb"><img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=262626&color=409040"/></a> 
-</a></td></tr>
+<a href="https://github.com/search?q=user%3ASomyaRanjanSahu+mongodb"><img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=262626&color=409040"/></a></td></tr>
 
 <tr>
 <td><h4>App Development</h4></td>
