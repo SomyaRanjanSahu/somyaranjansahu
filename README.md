@@ -31,18 +31,32 @@ class WhoAmI:
 <h3 align="center">🗨️ Find me on:</h3>
 <br>
 
-<p align="center">
-<!-- Professional -->
-<a href="https://www.linkedin.com/in/somya-ranjan-sahu/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=005480&logoColor=white" alt="LinkedIn" /></a>&nbsp; 
-<a href="https://twitter.com/me_somyasahu" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&labelColor=0a6ca9&logoColor=white" alt="Twitter" /></a>&nbsp; 
-<!-- Coding Platforms -->
-<a href="https://leetcode.com/u/somyaranjansahu" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&labelColor=262626&logoColor=#d16c06" alt="LeetCode" /></a>&nbsp; 
-<a href="https://www.codechef.com/users/somya_sahu" target="blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&labelColor=93221f&logoColor=white" alt="CodeChef" /></a>&nbsp; 
-<a href="https://www.hackerrank.com/somyasahu10" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&labelColor=186835&logoColor=white" alt="HackerRank" /></a>&nbsp; 
-<!-- Social & Learning -->
-<a href="https://www.geeksforgeeks.org/user/somyasahu" target="blank"><img src="https://img.shields.io/badge/-GeeksForGeeks-298D46?style=for-the-badge&logo=Geeksforgeeks&labelColor=1d6331&logoColor=white" alt="GeeksforGeeks" /></a>&nbsp; 
+<div align="center">
+
+##### Contact
+
+<p>
+<a href="mailto:somyasahu10@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C71610" alt="Gmail" /></a>
+</p>
+
+##### Social Networks
+
+<p>
+<a href="https://www.linkedin.com/in/somya-ranjan-sahu/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=005480&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/me_somyasahu" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&labelColor=0a6ca9&logoColor=white" alt="Twitter" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/somya_r_sahu" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&labelColor=9c162f&logoColor=white" alt="Instagram" /></a>
 </p>
+
+##### Coding Profiles
+
+<p>
+<a href="https://leetcode.com/u/somyaranjansahu" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&labelColor=262626&logoColor=#d16c06" alt="LeetCode" /></a>&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/somya_sahu" target="blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&labelColor=93221f&logoColor=white" alt="CodeChef" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/somyasahu10" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&labelColor=186835&logoColor=white" alt="HackerRank" /></a>&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/user/somyasahu" target="blank"><img src="https://img.shields.io/badge/-GeeksForGeeks-298D46?style=for-the-badge&logo=Geeksforgeeks&labelColor=1d6331&logoColor=white" alt="GeeksforGeeks" /></a>
+</p>
+
+</div>
 
 <hr>
 
@@ -163,3 +177,8 @@ class WhoAmI:
     </td>
   </tr>
 </table>
+
+<br>
+<p align="center">
+  <i>"Building the decentralized future, one block at a time."</i>
+</p>
