@@ -163,10 +163,6 @@ class WhoAmI:
 <h3 align="center">📊 GitHub Stats:</h3>
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=somyaranjansahu&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
 <table align="center">
   <tr>
     <td>
