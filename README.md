@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Building+on+the+Blockchain;Full-Stack+Product+Developer;Leading+Engineering+Teams&center=true&width=400&height=45&color=40C463">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+Systems;Full-Stack+Product+Developer;Leading+Engineering+Teams&center=true&width=400&height=45&color=40C463">
   </a>
 </p>
 
@@ -14,8 +14,8 @@
 ```python
 class WhoAmI:
     user = 'Somya Ranjan Sahu'
-    current_work = 'Leading teams & architecting blockchain solutions'
-    learning = 'Advanced blockchain protocols & DevOps automation'
+    current_work = 'Leading teams & building scalable applications'
+    learning = 'Scalable system design & DevOps automation'
     fun_fact = 'Code runs better after midnight 🌙'
     
     def hobbies():
@@ -176,5 +176,5 @@ class WhoAmI:
 
 <br>
 <p align="center">
-  <i>"Building the decentralized future, one block at a time."</i>
+  <i>"Building impactful solutions, one problem at a time."</i>
 </p>
