@@ -178,4 +178,3 @@ class WhoAmI:
 <p align="center">
   <i>"Building impactful solutions, one problem at a time."</i>
 </p>
- 
